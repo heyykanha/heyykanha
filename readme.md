@@ -1,4 +1,4 @@
-# 👋 Hi, I am Kanhaiya (Kanha) Janwa  
+# 👋 Hi, I am Kanha Janwa  
 
 > 🚀 Salesforce Developer by craft, Problem Solver by choice  
 > 🧠 Turning complex child welfare, tax, and education workflows into clean, scalable Salesforce solutions  
